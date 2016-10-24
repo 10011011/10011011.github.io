@@ -15,7 +15,7 @@
     <body>
 
 		<div id="formContainer">
-			<form id="login" method="get" action="index1.html" onsubmit="check()">
+			<form id="login" method="get" action="index1.html" onsubmit="return check()">
 			
 				<input type="password" name="loginPass" id="loginPass" value="pass" />
 				<input type="submit" name="submit" value="Login" />
@@ -35,7 +35,15 @@
 </html>
 <script>
 	function check(){
-	alert("11111");
+	var pss = document.getElementById("loginPass").value;
+		if(pss=="10011011"){
+			alert("right !");
+			return true;
+		}
+		else 
+			alert("wrong !");
+		    return false;
+		
 	}
 
 </script>
