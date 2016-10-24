@@ -18,7 +18,7 @@
 			<form id="login" method="get" action="index1.html" onsubmit="return check()">
 			
 				<input type="password" name="loginPass" id="loginPass" value="pass" />
-				<input type="submit" name="submit" value="Login" />
+				<input type="submit" name="submit" id="submit" value="Login" />
 			</form>
 		</div>
 
@@ -35,11 +35,11 @@
 	function check(){
 	var pss = document.getElementById("loginPass").value;
 		if(pss=="10011011"){
-
+			document.getElementById("submit").value = "loading...";
 			return true;
 		}
 		else 
-
+			alert("wrong !")
 		    return false;
 		
 	}
