@@ -1,0 +1,10 @@
+---
+title:  "ER"
+subtitle: ""
+author: ""
+avatar: "img/authors/wferr.png"
+image: "img/e.jpg"
+date:   2016-10-22 12:12:12
+---
+
+### every day without you is like a book without pages 

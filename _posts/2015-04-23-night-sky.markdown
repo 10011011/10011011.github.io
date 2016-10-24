@@ -1,0 +1,10 @@
+---
+title:  "F"
+subtitle: ""
+author: ""
+avatar: "img/authors/wferr.png"
+image: "img/d.jpg"
+date:   2016-10-22 12:12:12
+---
+
+### first impressions are half the battle
