@@ -7,6 +7,6 @@ image: "img/a.jpg"
 date:   2016-10-22 12:12:12
 ---
 
-### taciturn knight
+### tomorrow is another wonderful day
 
 
