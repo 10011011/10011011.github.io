@@ -7,4 +7,4 @@ image: "img/e.jpg"
 date:   2016-10-22 12:12:12
 ---
 
-### every day without you is like a book without pages 
+### Every day without you is like a book without pages 

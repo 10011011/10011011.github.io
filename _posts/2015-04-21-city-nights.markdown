@@ -7,4 +7,4 @@ image: "img/b.jpg"
 date:   2016-10-22 12:12:12
 ---
 
-### call you just say "hi"
+### Call you just say "hi"
